@@ -60,9 +60,3 @@ function fight(player1, player2, player1Health, player2Health) {
     }
 }
 fight("Trogdor", "Speget", 100, 100)
-
-// extended challenges:
-
-// function printSquare(width) {
-
-// }
